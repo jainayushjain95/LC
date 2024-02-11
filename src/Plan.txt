@@ -1,0 +1,28 @@
+
+- https://leetcode.com/tag/design/
+    - https://leetcode.com/problems/logger-rate-limiter/description/
+    - https://leetcode.com/problems/design-an-ordered-stream/description/
+
+- https://leetcode.com/studyplan/dynamic-programming/ https://leetcode.com/tag/dynamic-programming/
+    - https://leetcode.com/problems/counting-bits/description/
+    - https://leetcode.com/problems/pascals-triangle/description/
+    - https://leetcode.com/problems/house-robber/
+
+- https://leetcode.com/problem-list/top-interview-questions/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D&page=1
+    - https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    - https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    - https://leetcode.com/problems/valid-palindrome/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+
+- Core JAVA
+    - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999288#overview
+    - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999290#overview
+    - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999296#overview
+    - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999300#overview
+    - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999310#overview
+    - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999314#overview
+    - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999318#overview
+    - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999328#overview
+    - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999330#overview
+    - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999334#overview
+    - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999336#overview
