@@ -1,11 +1,86 @@
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
 
 public class DP {
 
     public static void main(String[] args) {
         int[] cost = {10, 15, 20};
-        System.out.println(new DP().minCostClimbingStairs(cost));
+//        System.out.println(new DP().divisorGame(4));
     }
+
+
+    //Pascal 1
+    //https://leetcode.com/problems/pascals-triangle/
+    public List<List<Integer>> generate(int numRows) {
+        List<List<Integer>> output = new ArrayList<>();
+
+        List<Integer> rowOne = new ArrayList<>();
+        rowOne.add(1);
+        output.add(rowOne);
+
+        if(numRows > 1) {
+            int row = 2;
+            while(row <= numRows) {
+                List<Integer> newRow = new ArrayList<>();
+                newRow.add(1);
+                int col = 0;
+                List<Integer> oldRow = output.get(row - 2);
+                while(col < row - 2) {
+                    newRow.add(oldRow.get(col) + oldRow.get(col + 1));
+                    col++;
+                }
+                newRow.add(1);
+                output.add(newRow);
+                row++;
+            }
+        }
+
+        return output;
+    }
+
+    public int[] countBits(int n) {
+        return countBitsDP(n);
+    }
+
+    public int[] countBitsDP(int n) {
+        int[] bitsCount = new int[n + 1];
+        if(n == 0) {
+            return bitsCount;
+        }
+
+        if(n == 1) {
+            bitsCount[1] = 1;
+            return bitsCount;
+        }
+
+        bitsCount[1] = 1;
+        int size = 2, index = 2;
+        while(index <= n) {
+            int k = size/2;
+            while(index <= n && k < size) {
+                bitsCount[index++] = bitsCount[k++];
+            }
+            k = size/2;
+            while(index <= n && k < size) {
+                bitsCount[index++] = 1 + bitsCount[k++];
+            }
+            size *= 2;
+        }
+
+        return bitsCount;
+    }
+
+
+
+    public int[] countBitsBF(int n) {
+        int[] bitsCount = new int[n + 1];
+        for(int i = 0;i <= n; i++) {
+            bitsCount[i] = CommonUtils.getNoOfSetBits(i);
+        }
+        return bitsCount;
+    }
+
 
     public int minCostClimbingStairs(int[] cost) {
         return minCostClimbingStairsRecBottomUpDP(cost);

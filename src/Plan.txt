@@ -1,18 +1,24 @@
 
 - https://leetcode.com/tag/design/
-    - https://leetcode.com/problems/logger-rate-limiter/description/
-    - https://leetcode.com/problems/design-an-ordered-stream/description/
+    - https://leetcode.com/problems/insert-delete-getrandom-o1/
+    - https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
+    - https://leetcode.com/problems/design-hit-counter/
+    - https://leetcode.com/problems/design-authentication-manager/
+    - https://leetcode.com/problems/time-based-key-value-store/description/
 
-- https://leetcode.com/studyplan/dynamic-programming/ https://leetcode.com/tag/dynamic-programming/
-    - https://leetcode.com/problems/counting-bits/description/
-    - https://leetcode.com/problems/pascals-triangle/description/
-    - https://leetcode.com/problems/house-robber/
+- https://leetcode.com/tag/dynamic-programming/
+    - https://leetcode.com/problems/all-possible-full-binary-trees/description/
+    - https://leetcode.com/problems/coin-change/
+    - https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought/description/
+    - https://leetcode.com/problems/count-sorted-vowel-strings/description/
+    - https://leetcode.com/problems/number-of-self-divisible-permutations/description/
 
 - https://leetcode.com/problem-list/top-interview-questions/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D&page=1
-    - https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
-    - https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
-    - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
-    - https://leetcode.com/problems/valid-palindrome/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    - https://leetcode.com/problems/missing-ranges/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    - https://leetcode.com/problems/majority-element/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    - https://leetcode.com/problems/excel-sheet-column-number/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    - https://leetcode.com/problems/reverse-bits/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    - https://leetcode.com/problems/number-of-1-bits/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
 
 - Core JAVA
     - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999288#overview
