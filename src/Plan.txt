@@ -1,29 +1,27 @@
 
-- https://leetcode.com/tag/design/
-    - https://leetcode.com/problems/insert-delete-getrandom-o1/
-    - https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
-    - https://leetcode.com/problems/design-hit-counter/
-    - https://leetcode.com/problems/design-authentication-manager/
-    - https://leetcode.com/problems/time-based-key-value-store/description/
 
-- https://leetcode.com/tag/dynamic-programming/
-    - https://leetcode.com/problems/all-possible-full-binary-trees/description/
-    - https://leetcode.com/problems/coin-change/
-    - https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought/description/
-    - https://leetcode.com/problems/count-sorted-vowel-strings/description/
-    - https://leetcode.com/problems/number-of-self-divisible-permutations/description/
+- https://leetcode.com/tag/dynamic-programming/ | Sort by freq | Only medium
+    - https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+    - https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/
+    - https://leetcode.com/problems/generate-parentheses/description/
+    - https://leetcode.com/problems/integer-break/description/
+    - https://leetcode.com/problems/maximum-product-subarray/description/
+    - https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/
+    - https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
+    - https://leetcode.com/problems/k-items-with-the-maximum-sum/
+    - https://leetcode.com/problems/maximum-good-subarray-sum/
+    - https://leetcode.com/problems/count-primes/description/
+    - https://leetcode.com/problems/perfect-squares/description/
+    - https://leetcode.com/problems/largest-divisible-subset/description/
 
 - https://leetcode.com/problem-list/top-interview-questions/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D&page=1
-    - https://leetcode.com/problems/missing-ranges/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
-    - https://leetcode.com/problems/majority-element/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
-    - https://leetcode.com/problems/excel-sheet-column-number/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
-    - https://leetcode.com/problems/reverse-bits/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
-    - https://leetcode.com/problems/number-of-1-bits/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    - https://leetcode.com/problems/happy-number/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    - https://leetcode.com/problems/reverse-linked-list/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    - https://leetcode.com/problems/contains-duplicate/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    - https://leetcode.com/problems/palindrome-linked-list/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    - https://leetcode.com/problems/valid-anagram/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
 
 - Core JAVA
-    - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999288#overview
-    - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999290#overview
-    - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999296#overview
     - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999300#overview
     - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999310#overview
     - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999314#overview
@@ -32,3 +30,17 @@
     - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999330#overview
     - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999334#overview
     - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999336#overview
+
+- LLD
+    - https://www.youtube.com/watch?v=5Tz9EUMHOGI&list=PLTCrU9sGybupCpY20eked6blbHI4zZ55k&index=2
+    - https://www.youtube.com/watch?v=FbQYifw9Be8&list=PLTCrU9sGybupCpY20eked6blbHI4zZ55k&index=3
+    - https://www.youtube.com/watch?v=_wmyYdOkCo4&list=PLTCrU9sGybupCpY20eked6blbHI4zZ55k&index=4
+    - https://www.youtube.com/watch?v=-T0H--a8WnY&list=PLTCrU9sGybupCpY20eked6blbHI4zZ55k&index=5
+    - https://www.youtube.com/watch?v=tIavGKafBV8&list=PLTCrU9sGybupCpY20eked6blbHI4zZ55k&index=6
+
+- HLD
+    - https://www.youtube.com/watch?v=O_c7lzNbcKo&list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a&index=6
+    - https://www.youtube.com/watch?v=iuR7rzNvbxs&list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a&index=7
+    - https://www.youtube.com/watch?v=dpcILJ8BTzU&list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a&index=8
+    - https://www.youtube.com/watch?v=Ez1GK2imrsY&list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a&index=9
+    - https://www.youtube.com/watch?v=nUuAWn0AAiY&list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a&index=10
