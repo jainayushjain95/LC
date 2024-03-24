@@ -1,5 +1,3 @@
-QWERTqwert1234!@#$
-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
 
 - https://leetcode.com/tag/dynamic-programming/ | Sort by freq | Only medium
     - https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
