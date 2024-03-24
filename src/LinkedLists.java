@@ -11,8 +11,59 @@ class ListNode {
 
 public class LinkedLists {
 
-    public static void main(String[] args) {
+    ListNode outputHead = null;
 
+    public static void main(String[] args) {
+        int[] array = {};
+        LinkedLists obj = new LinkedLists();
+        ListNode head = obj.getList(array);
+        ListNode output = obj.reverseList(head);
+        obj.printList(output);
+    }
+
+
+    public ListNode reverseList(ListNode head) {
+        return reverseList3(head);
+    }
+
+    public ListNode reverseList3(ListNode head) {
+        if(head == null || head.next == null) {
+            return head;
+        }
+        ListNode prev = null, curr = head;
+
+        while (curr != null) {
+            ListNode temp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp;
+        }
+        return prev;
+    }
+
+
+    public ListNode reverseList2(ListNode head) {
+        if(head == null || head.next == null) {
+            return head;
+        }
+        ListNode smallerHead = reverseList2(head.next);
+        head.next.next = head;
+        head.next = null;
+        return smallerHead;
+    }
+
+    public ListNode reverseList1(ListNode head) {
+        if(head == null || head.next == null) {
+            return head;
+        }
+        ListNode smallerHead = reverseList1(head.next);
+        head.next = null;
+        smallerHead.next = head;
+        if(outputHead == null) {
+            outputHead = smallerHead;
+        }
+        smallerHead = head;
+        return smallerHead;
     }
 
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
@@ -84,6 +135,13 @@ public class LinkedLists {
         return null;
     }
 
+    public void printList(ListNode head) {
+        while(head != null) {
+            System.out.println(head.val);
+            head = head.next;
+        }
+    }
+
 
     public ListNode getIntersectionNodeApproachThree(ListNode headA, ListNode headB) {
         int len1 = CommonUtils.getLengthOfLL(headA);
@@ -115,6 +173,19 @@ public class LinkedLists {
         return null;
     }
 
+    public ListNode getList(int[] array) {
+        ListNode head = null, lastNode = null;
+        for (int num : array) {
+            if(head == null) {
+                head = new ListNode(num);
+                lastNode = head;
+            } else {
+                lastNode.next = new ListNode(num);
+                lastNode = lastNode.next;
+            }
+        }
+        return head;
+    }
 
 
 }
