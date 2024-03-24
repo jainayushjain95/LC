@@ -12,15 +12,70 @@ class ListNode {
 public class LinkedLists {
 
     ListNode outputHead = null;
+    ListNode front = null;
 
     public static void main(String[] args) {
-        int[] array = {};
+        int[] array = {1, 2, 3, 2, 1};
         LinkedLists obj = new LinkedLists();
         ListNode head = obj.getList(array);
-        ListNode output = obj.reverseList(head);
-        obj.printList(output);
+//        ListNode output = obj.reverseList(head);
+//        obj.printList(output);
+        System.out.println(obj.isPalindrome2(head));
     }
 
+    public boolean isPalindrome(ListNode head) {
+        front = head;
+        return isPalindrome1(head);
+    }
+
+    public boolean isPalindrome2(ListNode head) {
+        if(head == null || head.next == null) {
+            return true;
+        }
+        ListNode mid = findMid(head);
+        ListNode reversedHead = reverseLLForisPalindrome(mid.next);
+        mid.next = null;
+        boolean isPalindrome = true;
+        while(reversedHead != null && head != null && isPalindrome) {
+            isPalindrome = head.val == reversedHead.val;
+            head = head.next;
+            reversedHead = reversedHead.next;
+        }
+        return isPalindrome;
+    }
+
+    public ListNode reverseLLForisPalindrome(ListNode head) {
+        ListNode prev = null, curr = head;
+        while(curr != null) {
+            ListNode temp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp;
+        }
+        return prev;
+    }
+
+    private ListNode findMid(ListNode head) {
+        ListNode slow = head, fast = head;
+        while(fast.next != null && fast.next.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+
+    public boolean isPalindrome1(ListNode curr) {
+        if(curr != null) {
+            if(!isPalindrome1(curr.next)) {
+                return false;
+            }
+            if(front.val != curr.val) {
+                return false;
+            }
+            front = front.next;
+        }
+        return true;
+    }
 
     public ListNode reverseList(ListNode head) {
         return reverseList3(head);

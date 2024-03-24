@@ -18,9 +18,9 @@ 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
 - https://leetcode.com/problem-list/top-interview-questions/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D&page=1
     # https://leetcode.com/problems/happy-number/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
     # https://leetcode.com/problems/reverse-linked-list/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
-    - https://leetcode.com/problems/contains-duplicate/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
-    - https://leetcode.com/problems/palindrome-linked-list/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
-    - https://leetcode.com/problems/valid-anagram/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    # https://leetcode.com/problems/contains-duplicate/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    # https://leetcode.com/problems/palindrome-linked-list/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    # https://leetcode.com/problems/valid-anagram/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
 
 - Core JAVA
     - https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34999300#overview
