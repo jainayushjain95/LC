@@ -2,9 +2,9 @@ QWERTqwert1234!@#$
 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
 
 - https://leetcode.com/tag/dynamic-programming/ | Sort by freq | Only medium
-    - https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
-    - https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/
-    - https://leetcode.com/problems/generate-parentheses/description/
+    # https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+    # https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/description/
+    # https://leetcode.com/problems/generate-parentheses/description/
     - https://leetcode.com/problems/integer-break/description/
     - https://leetcode.com/problems/maximum-product-subarray/description/
     - https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/
@@ -14,7 +14,6 @@ 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
     - https://leetcode.com/problems/count-primes/description/
     - https://leetcode.com/problems/perfect-squares/description/
     - https://leetcode.com/problems/largest-divisible-subset/description/
-
 - https://leetcode.com/problem-list/top-interview-questions/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D&page=1
     # https://leetcode.com/problems/happy-number/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
     # https://leetcode.com/problems/reverse-linked-list/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
