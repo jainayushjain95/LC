@@ -37,12 +37,12 @@ https://www.youtube.com/watch?v=M3_pLsDdeuU&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7
 
 
 - https://leetcode.com/problem-list/top-interview-questions/?sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D&page=1&difficulty=MEDIUM
-    - https://leetcode.com/problems/move-zeroes/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
-    - https://leetcode.com/problems/power-of-three/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
-    - https://leetcode.com/problems/reverse-string/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
-    - https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
-    - https://leetcode.com/problems/first-unique-character-in-a-string/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
-    - https://leetcode.com/problems/fizz-buzz/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    # https://leetcode.com/problems/move-zeroes/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    # https://leetcode.com/problems/power-of-three/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    # https://leetcode.com/problems/reverse-string/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    # https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    # https://leetcode.com/problems/first-unique-character-in-a-string/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
+    # https://leetcode.com/problems/fizz-buzz/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
     - https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
     - https://leetcode.com/problems/merge-intervals/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
     - https://leetcode.com/problems/add-two-numbers/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
