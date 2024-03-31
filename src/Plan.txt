@@ -20,12 +20,16 @@ https://www.youtube.com/watch?v=M3_pLsDdeuU&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7
 
 - https://leetcode.com/tag/dynamic-programming/ | Sort by freq | Only medium
   # https://leetcode.com/problems/knight-dialer/description/
+  - https://leetcode.com/problems/longest-increasing-subsequence/description/
+    - https://www.youtube.com/watch?v=ekcwMsSIzVc&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=42
+    - https://www.youtube.com/watch?v=IFfYfonAFGc&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=43
+    - https://www.youtube.com/watch?v=on2hvxBXJH4&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=44
   - https://leetcode.com/problems/largest-divisible-subset/description/
+    - https://www.youtube.com/watch?v=gDuZwBW9VvM&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=45
   - https://leetcode.com/problems/perfect-squares/description/
   - https://leetcode.com/problems/next-greater-element-i/description/
   - https://leetcode.com/problems/sum-of-subarray-minimums/description/
   - https://leetcode.com/problems/house-robber/description/
-  - https://leetcode.com/problems/longest-increasing-subsequence/
   - https://leetcode.com/problems/number-of-longest-increasing-subsequence/
   - https://leetcode.com/problems/palindromic-substrings/description/
   - https://leetcode.com/problems/coin-change/
