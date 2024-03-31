@@ -26,6 +26,10 @@ https://www.youtube.com/watch?v=M3_pLsDdeuU&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7
     - https://www.youtube.com/watch?v=on2hvxBXJH4&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=44
   - https://leetcode.com/problems/largest-divisible-subset/description/
     - https://www.youtube.com/watch?v=gDuZwBW9VvM&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=45
+  - https://leetcode.com/problems/longest-string-chain/description/
+    - https://www.youtube.com/watch?v=YY8iBaYcc4g&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=46
+  - https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+    - https://www.youtube.com/watch?v=cKVl1TFdNXg&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=48
   - https://leetcode.com/problems/perfect-squares/description/
   - https://leetcode.com/problems/next-greater-element-i/description/
   - https://leetcode.com/problems/sum-of-subarray-minimums/description/
