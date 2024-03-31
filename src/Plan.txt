@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=M3_pLsDdeuU&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7
     - https://leetcode.com/problems/rotting-oranges/description/
 
 - https://leetcode.com/tag/dynamic-programming/ | Sort by freq | Only medium
-  - https://leetcode.com/problems/knight-dialer/description/
+  # https://leetcode.com/problems/knight-dialer/description/
   - https://leetcode.com/problems/largest-divisible-subset/description/
   - https://leetcode.com/problems/perfect-squares/description/
   - https://leetcode.com/problems/next-greater-element-i/description/
@@ -45,9 +45,6 @@ https://www.youtube.com/watch?v=M3_pLsDdeuU&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7
     # https://leetcode.com/problems/fizz-buzz/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
     # https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
     # https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/
-    - https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/
-    - https://leetcode.com/problems/maximum-erasure-value/description/
-    - https://leetcode.com/problems/number-of-equal-count-substrings/description/
     - https://leetcode.com/problems/merge-intervals/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
     - https://leetcode.com/problems/add-two-numbers/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
     - https://leetcode.com/problems/3sum/description/?envType=featured-list&envId=top-interview-questions?envType=featured-list&envId=top-interview-questions
